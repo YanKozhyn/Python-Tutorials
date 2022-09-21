@@ -1,0 +1,30 @@
+So far we always executed code from start to finish
+
+But sometimes that is not desirable:
+Only run code if a condition is True
+Run code multiple times
+Run code for every item in a list
+
+Python has lots of ways to control the flow of the code
+
+But to understand how that workds we need 
+to understand how Python groups chunks of code
+We use indentation
+
+If condition is True run: 
+	Line 1
+	Line 2 } indents determine that the code belongs to the if statement
+	Line 3
+
+Line4
+Line5 } Lines that are not indented don't belong to the if statement
+Line6 
+
+
+There are 4 major ways that detemine the flow of the code
+if elif else - run code if conditions are true
+Match - if statements for more specific values
+While - Repeat code as long as condition is true
+For - Run code for every item in a container. e.x.: [1,2,3]
+
+There are also commands like break or next to have even more control

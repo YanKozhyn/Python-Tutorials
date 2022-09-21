@@ -1,0 +1,15 @@
+Python is incredibly flexible with datatypes
+Sometimes data is converted automatically(int + float)
+
+Functions to change datatypes
+int(), float(), str(), bool(), list(), dict(), tuple(), set() 
+these are very forgiving
+
+
+There are lots of datatypes you don't explicitly use
+None - Absence of a value
+sequence - To get a range of numbers
+
+Bytes, complex numbers, memoryview, frozensets - more specific types
+or data you will see for highly specific purposes
+

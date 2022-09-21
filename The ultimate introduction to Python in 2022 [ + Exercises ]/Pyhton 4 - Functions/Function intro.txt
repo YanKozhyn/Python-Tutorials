@@ -1,0 +1,26 @@
+So far 
+we covered some datatypes (int,string,lists,bools)
+And how to change them with functions and methods
+We also covered how to change the flow of the code
+(if + eles, match, while,for)
+
+This is a good start but it only gets us so far
+
+The tools we learned about so far are coparable to the basic parts
+required for a car like screws, pipes, wires, plastics ext
+
+However, we don't build a car out of these parts
+Engine, Battery, control....
+
+What that means is that we want to combine
+the simple tools into more complex parts
+and for that, we start with functions
+
+A function is simply a block of code
+that can be reused
+
+1. We create the function, this is where all the code is added
+2. We call the function, this executes the code created in step 1
+A function can be called multiple times and we can even customise it
+when we call it 
+
